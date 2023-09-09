@@ -16,7 +16,7 @@
     "webpack-dev-server": "^2.9.4"
   },
   "dependencies": {
-    "postcss": "^6.0.14",
+    "postcss": "^7.0.36",
     "postcss-safe-parser": "^3.0.1"
   }
 }
